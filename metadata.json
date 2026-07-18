@@ -1,0 +1,6 @@
+{
+  "name": "Իսպաներենի Ուսուցման Խաղեր — Juegos de Español",
+  "description": "Ինտերակտիվ և հետաքրքիր խաղեր 12 տարեկան երեխաների համար՝ իսպաներեն սովորելու և Իսպանիայի դպրոցին պատրաստվելու համար հայերենի միջոցով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
